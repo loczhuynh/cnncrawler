@@ -1,0 +1,20 @@
+C:\MyDocuments\Personal\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\bin\Debug\cnncrawler.exe.config
+C:\MyDocuments\Personal\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\bin\Debug\cnncrawler.exe
+C:\MyDocuments\Personal\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\bin\Debug\cnncrawler.pdb
+C:\MyDocuments\Personal\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\bin\Debug\HtmlAgilityPack.dll
+C:\MyDocuments\Personal\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\obj\Debug\cnncrawler.csprojResolveAssemblyReference.cache
+C:\MyDocuments\Personal\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\obj\Debug\cnncrawler.frmMain.resources
+C:\MyDocuments\Personal\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\obj\Debug\cnncrawler.Properties.Resources.resources
+C:\MyDocuments\Personal\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\obj\Debug\cnncrawler.csproj.GenerateResource.Cache
+C:\MyDocuments\Personal\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\obj\Debug\cnncrawler.exe
+C:\MyDocuments\Personal\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\obj\Debug\cnncrawler.pdb
+C:\My Documents\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\bin\Debug\cnncrawler.exe.config
+C:\My Documents\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\obj\Debug\cnncrawler.exe
+C:\My Documents\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\obj\Debug\cnncrawler.pdb
+C:\My Documents\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\bin\Debug\cnncrawler.exe
+C:\My Documents\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\bin\Debug\cnncrawler.pdb
+C:\My Documents\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\bin\Debug\HtmlAgilityPack.dll
+C:\My Documents\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\obj\Debug\cnncrawler.csprojResolveAssemblyReference.cache
+C:\My Documents\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\obj\Debug\cnncrawler.frmMain.resources
+C:\My Documents\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\obj\Debug\cnncrawler.Properties.Resources.resources
+C:\My Documents\University\UNT\Fall2015\CSCE4444\homework\homework1\cnncrawler\cnncrawler\obj\Debug\cnncrawler.csproj.GenerateResource.Cache
